@@ -42,10 +42,10 @@
 
 ### Exercise 3
 
-1. Delete the contents of the left pane and copy the raw text from [this flow](flows/CL_1_salesService_lang.json){:target="_blank"} into the left pane of the JSON PathFinder
+1. Delete the contents of the left pane and copy the raw text from this [Desktop Layout](sesson1Assets/Default%20Desktop%20Layout.json){:target="_blank"} into the left pane of the JSON PathFinder
 2. Click Beautify
-   > How many variables are there in this flow?
+   > Does the agent desktop layout have the chat app enabled?
    >
-   > What is the name and default value of variable 4?
+   > What areas are listed in the supervisor desktop layout?
     
     ---
