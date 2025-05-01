@@ -1,4 +1,4 @@
-# Section 1 - Understanding JSON
+# Understanding JSON
 
 
 
@@ -27,7 +27,8 @@
    >
 
 2. Click Beautify
-   > Note that shipTo and BillTo have additional JSON objects in them.
+   > !!! Note 
+      "shipTo" and "billTo" have additional JSON objects in them.
    >
    > What is the JSON path for the ship to state?
    >
@@ -36,7 +37,8 @@
    >
 
 4. Click Beautify
-   > Note that we now have an array of objects (0 and 1)
+   > !!! Note 
+      We now have an array of objects (0 and 1)
    >
    > What is the JSON path for Alice Brown's ship to state?
 

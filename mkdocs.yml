@@ -79,7 +79,7 @@ nav:
   - Home: index.md
   - JSON :
       # - Overview: overview.md
-      - Section 1 - Understanding JSON: sesson1.md
+      - Understanding JSON: sesson1.md
       # - Conclusion: conclusion.md
   # - Session 2:
   #     - Overview: overview_S2.md
